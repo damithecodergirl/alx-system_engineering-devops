@@ -1,0 +1,37 @@
+This is a txt file I'm using to understand shell redirection input and output
+Countries in Asia
+Flag of Afghanistan Afghanistan
+Flag of Armenia Armenia
+Flag of Azerbaijan Azerbaijan
+Flag of Bahrain Bahrain
+Flag of Bangladesh Bangladesh
+Flag of Bhutan Bhutan
+Flag of British Indian Ocean Territory British Indian Ocean Territory
+Flag of Brunei Brunei
+Flag of Cambodia Cambodia
+People's Republic of China People's Republic of China
+Flag of Christmas Island Christmas Island
+Flag of Cocos (Keeling) Islands Cocos (Keeling) Islands
+Flag of Cyprus Cyprus
+Flag of Georgia (country) Georgia
+Flag of Hong Kong Hong Kong
+Flag of India India
+Flag of Indonesia Indonesia	Flag of Iran Iran
+Flag of Iraq Iraq
+Flag of Israel Israel
+Flag of Japan Japan
+Flag of Jordan Jordan
+Flag of Kazakhstan Kazakhstan
+Flag of North Korea North Korea
+Flag of South Korea South Korea
+Flag of Kuwait Kuwait
+Flag of Kyrgyzstan Kyrgyzstan
+Flag of Laos Laos
+Flag of Lebanon Lebanon
+Flag of Macau Macau
+Flag of Malaysia Malaysia
+Flag of Maldives Maldives
+Flag of Mongolia Mongolia
+Flag of Burma Burma
+Nepal  Nepal
+Flag of Oman Oman
